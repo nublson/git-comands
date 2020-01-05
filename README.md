@@ -4,6 +4,12 @@
 
 ---
 
+## Translated Versions
+
+-   [Versão em português](READMEpt.md)
+
+---
+
 _A list of my commonly used Git commands_
 
 --
